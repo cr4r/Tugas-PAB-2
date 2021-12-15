@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81941204730",
+    "project_id": "data-nilai-mahasiswa",
+    "storage_bucket": "data-nilai-mahasiswa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81941204730:android:0ce508f2a03ef6b2d08343",
+        "android_client_info": {
+          "package_name": "pab2.datanilaimahasiswa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81941204730-jejb7575d2532jk67f0gc0b2qkiti2km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBndWJR9D02e1NZwmc6gTO2fSew7aTKzW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81941204730-jejb7575d2532jk67f0gc0b2qkiti2km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
